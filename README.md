@@ -1,4 +1,5 @@
 # 📚 Simple Library Manager
+[Visit the App](https://simplelibrarymanager.streamlit.app/)
 
 A modern, minimalistic Streamlit app that allows you to manage your personal book collection. Add, remove, search, view, and analyze books — all stored locally in a JSON file.
 
@@ -24,4 +25,5 @@ A modern, minimalistic Streamlit app that allows you to manage your personal boo
 ---
 
 ## 📁 Project Structure
-
+- app.py
+- books_data.json
